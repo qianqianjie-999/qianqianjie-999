@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-qianqianjie--999-181717?logo=github&logoColor=white)](https://github.com/qianqianjie-999)
 [![Profile Views](https://komarev.com/ghpvc/?username=qianqianjie-999&color=2c5f8d&label=Profile+Views)](https://github.com/qianqianjie-999)
-[![Repos](https://img.shields.io/badge/Repositories-13-2c5f8d)](https://github.com/qianqianjie-999?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repositories-12-2c5f8d)](https://github.com/qianqianjie-999?tab=repositories)
 
 </div>
 
@@ -17,7 +17,7 @@
 | 领域 | 技术 |
 |------|------|
 | **前端** | Vue 3 · Flutter · TypeScript · Element Plus · Bootstrap · ECharts |
-| **后端** | Flask · Python · Rust · Go · SQLAlchemy · Socket.IO |
+| **后端** | Flask · Python · Rust · SQLAlchemy · Socket.IO |
 | **数据库** | MariaDB · MySQL · SQLite |
 | **基础设施** | Docker · Apache · Nginx · frp · KCP/QUIC |
 | **AI/工具** | Tauri · OCR(Tesseract) · TTS · AI Agent Skills |
@@ -49,7 +49,6 @@
 | 项目 | 简介 | 技术栈 |
 |------|------|--------|
 | [**rust_frp**](https://github.com/qianqianjie-999/rust_frp) | Rust 高性能反向代理，TCP/HTTP/UDP/KCP/QUIC | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
-| [**frp**](https://github.com/qianqianjie-999/frp) | frp 反向代理 fork，内网穿透 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go) |
 
 ### 🤖 AI & 工具
 
