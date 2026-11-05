@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-qianqianjie--999-181717?logo=github&logoColor=white)](https://github.com/qianqianjie-999)
 [![Profile Views](https://komarev.com/ghpvc/?username=qianqianjie-999&color=2c5f8d&label=Profile+Views)](https://github.com/qianqianjie-999)
-[![Repos](https://img.shields.io/badge/Repositories-12-2c5f8d)](https://github.com/qianqianjie-999?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repositories-23-2c5f8d)](https://github.com/qianqianjie-999?tab=repositories)
 
 </div>
 
