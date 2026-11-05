@@ -48,14 +48,14 @@
 
 | 项目 | 简介 | 技术栈 |
 |------|------|--------|
-| [**rust_frp**](https://github.com/qianqianjie-999/rust_frp) | Rust 高性能反向代理，TCP/HTTP/UDP/KCP/QUIC | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
+| [**rust_frp**](https://github.com/qianqianjie-999/rust_frp) | Rust 高性能内网穿透/反向代理：TCP/UDP/HTTP/QUIC/WebSocket 全传输 + mTLS 加密，提供 Windows/Linux/macOS GUI 与 CLI 安装包、一键部署套件（[v0.2.3](https://github.com/qianqianjie-999/rust_frp/releases/tag/v0.2.3)）| ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
 
 ### 🤖 AI & 工具
 
 | 项目 | 简介 | 技术栈 |
 |------|------|--------|
 | [**PDF-DocVault 密档大师**](https://github.com/qianqianjie-999/PDF-DocVault) | 桌面端隐私文档处理中心，本地优先 | ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?logo=tauri) ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
-| [**announce-rs 叫号屏 OCR**](https://github.com/qianqianjie-999/announcer-ocr) | 摄像头 OCR 识别叫号并语音播报 | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) ![Tesseract](https://img.shields.io/badge/-OCR-336699) |
+| [**announcer-ocr 叫号播报机**](https://github.com/qianqianjie-999/announcer-ocr) | 摄像头 OCR 实时识别叫号屏号码 + TTS 语音播报，生产环境长期稳定运行 | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) ![Tesseract](https://img.shields.io/badge/-OCR-336699) |
 | [**team-skills 技能库**](https://github.com/qianqianjie-999/team-skills) | Trae & WorkBuddy 双智能体共享技能库（113个） | ![AI](https://img.shields.io/badge/-AI_Agent-7c3aed) |
 
 ---
